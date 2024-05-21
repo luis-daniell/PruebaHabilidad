@@ -356,6 +356,7 @@ Public Class Registro
         End If
 
 
+
     End Sub
 
     ''**--- Metodo del boton que manda a imprimir a la impresora 
